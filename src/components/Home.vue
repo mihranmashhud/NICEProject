@@ -7,12 +7,13 @@
     </v-parallax>
     <v-container>
     <h1>Who We Are</h1>
-    <p>North-Valley Initiative for Cultural Empowerment (NICE) is all about developing community. We strive to bring about an environment that allows the fulfillment of muslims' religous and daily life needs. This will begin with the introduction of our masjid project and continue with many projects after</p>
+    <p>North-Valley Initiative for Cultural Empowerment (NICE) is all about developing community. We strive to bring about an environment that allows the fulfillment of people's divine and daily life needs. This will begin with the introduction of our masjid project and continue with many projects after.</p>
     </v-container>
     <v-container>
     <h1>News</h1>
     <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Voluptate a dolore, ipsa officiis quaerat repudiandae consectetur facilis minus veniam assumenda recusandae laborum sit sapiente dolorum, quasi ex! Aspernatur, quia nam?</p>
     </v-container>
+
   </div>
 </template>
 
